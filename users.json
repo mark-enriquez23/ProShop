@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "62392f76aac2743e1c9cc022"
+  },
+  "isAdmin": true,
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "password": "$2a$10$Lt5AsjaR.VQQz2zP6UktNO85RsFS8cGeNBhhZKIEnfZJVK5qyTLrW",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  }
+},{
+  "_id": {
+    "$oid": "62392f76aac2743e1c9cc023"
+  },
+  "isAdmin": false,
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "$2a$10$IoUPQ6dmjnS8UzbgWB4h1.PnsXZ3g24K/fl7RObv.TjQcyK0imVci",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  }
+},{
+  "_id": {
+    "$oid": "62392f76aac2743e1c9cc024"
+  },
+  "isAdmin": false,
+  "name": "Jane Doe",
+  "email": "jane@example.com",
+  "password": "$2a$10$KpxC4EeoToZA6KS1hMHa1OvuZEW8NFYL5M47RPPP4QImZdL08jn5q",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T02:07:50.268Z"
+  }
+}]
